@@ -1,9 +1,10 @@
 # Algorithms
 Algorithms from different domains : DP, AI and ML
-Some papers reproduced :
+Some papers reproduced links :
 - updated soon
 
 Some course references : 
+- [Alex Smola YT](https://www.youtube.com/channel/UCYoS2VT03weLA7uzvL2Vybw)
 - [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [An Introduction to Artificial Intelligence, IIT Delhi 2018](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
@@ -15,5 +16,7 @@ Some course references :
 - [Stanford CS224N: NLP with Deep Learning | Winter 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - [Stanford: Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 - [Maths for ML](https://github.com/EderSantana/awesomeMLmath)
+- [Maths for Competitive Programming | Sai Avinash](https://www.youtube.com/playlist?list=PLN4aKSfpk8TQUiURV1k70At4Tj5oKb92i)
+- [Advanced Python Scripting | Arpit Jain](https://www.youtube.com/playlist?list=PLN4aKSfpk8TRM-WnQplsCUxXAHJik3WaZ)
 
 There is another [repo](https://github.com/p4rZ/CP) consisting of various DS & CP solutions. 
